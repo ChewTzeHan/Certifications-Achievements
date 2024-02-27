@@ -1,4 +1,4 @@
-**Testimonials provided by:**
+# **Testimonials provided by:**
 
 Greendale Secondary school 
 
