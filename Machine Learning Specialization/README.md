@@ -1,4 +1,4 @@
-**Completion of Andrew Ng's Machine Learning Specialization**
+# **Completion of Andrew Ng's Machine Learning Specialization**
 
 Relevant certification of external modules/courses:
 
