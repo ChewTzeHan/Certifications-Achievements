@@ -1,4 +1,4 @@
-**Achivements accumulated over the course of 3 year Automation & Mechatronics Systems course @ Ngee Ann Polytechnic**
+# **Achivements accumulated over the course of 3 year Automation & Mechatronics Systems course @ Ngee Ann Polytechnic**
 
 Academic Transcript & Diploma result
 
