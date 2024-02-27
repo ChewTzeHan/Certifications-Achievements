@@ -1,4 +1,4 @@
-**Completion of Proficiency in AI course by AI4Singapore**
+# **Completion of Proficiency in AI course by AI4Singapore**
 
 Relevant certification of external modules/courses:
 
