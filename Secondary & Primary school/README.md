@@ -1,4 +1,4 @@
-**STEM certificates obtained during Primary/Secondary School**
+# **STEM certificates obtained during Primary/Secondary School**
 
 Bronze in 7th National Robopreneur Carnival
 
