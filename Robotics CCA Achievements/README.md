@@ -1,4 +1,4 @@
-# **STEM certificates obtained during Primary/Secondary School**
+# **STEM-based certificates obtained during Robotics CCA**
 
 Bronze in 7th National Robopreneur Carnival
 
