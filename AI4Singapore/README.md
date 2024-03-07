@@ -1,0 +1,1 @@
+**AI4Singapore courses subdivided into 3 courses: Literacy in AI, Foundations in AI & Proficiency in AI**
